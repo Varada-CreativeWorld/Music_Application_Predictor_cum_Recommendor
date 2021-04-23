@@ -8,10 +8,15 @@ Video Link of the Project : https://drive.google.com/file/d/1-uVA4zbA2BNlHerXz6z
 
 # Technologies Used:
 
-React + Redux
-Flask
-Python
-Spotipy Library and Spotify API
+• React + Redux
+• Flask
+• Python
+• Spotipy Library and Spotify API
+
+# Dataset Download Links
+
+• Spotify Dataset for Recommendation Engine : https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
+• GTZAN Dataset for Genre Prediction : https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 # Major Functionalities of the Project:
 • The system logs in user using Spotify API and receives Spotify Authentication Token in ‘user-read-private’ scope.
