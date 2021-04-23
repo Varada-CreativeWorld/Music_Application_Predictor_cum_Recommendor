@@ -9,13 +9,18 @@ Video Link of the Project : https://drive.google.com/file/d/1-uVA4zbA2BNlHerXz6z
 # Technologies Used:
 
 • React + Redux
+
 • Flask
+
 • Python
+
 • Spotipy Library and Spotify API
+
 
 # Dataset Download Links
 
 • Spotify Dataset for Recommendation Engine : https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
+
 • GTZAN Dataset for Genre Prediction : https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 # Major Functionalities of the Project:
@@ -41,7 +46,10 @@ Video Link of the Project : https://drive.google.com/file/d/1-uVA4zbA2BNlHerXz6z
 • The system is not efficient for visually challenged individuals. • Private mode and Public mode is not incorporated to switch recommendation engine.
 
 # References
-https://data-flair.training/blogs/python-project-music-genre-classification/
-https://medium.com/excited-developers/file-upload-with-react-flask-e115e6f2bf99
-https://levelup.gitconnected.com/how-to-create-a-spotify-music-search-app-in-react-1d71c8007e45
-https://www.youtube.com/watch?v=tooddaC14q4&t=1167s
+• https://data-flair.training/blogs/python-project-music-genre-classification/
+
+• https://medium.com/excited-developers/file-upload-with-react-flask-e115e6f2bf99
+
+• https://levelup.gitconnected.com/how-to-create-a-spotify-music-search-app-in-react-1d71c8007e45
+
+• https://www.youtube.com/watch?v=tooddaC14q4&t=1167s
